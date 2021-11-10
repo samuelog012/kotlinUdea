@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/dfchaves/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:2:1-23:12
-INJECTED from /Users/dfchaves/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:2:1-23:12
-INJECTED from /Users/dfchaves/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:2:1-23:12
-INJECTED from /Users/dfchaves/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:2:1-23:12
+ADDED from /Users/dfchaves/dev/udeaKotlin/kotlinUdea/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/dfchaves/dev/udeaKotlin/kotlinUdea/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/dfchaves/dev/udeaKotlin/kotlinUdea/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/dfchaves/dev/udeaKotlin/kotlinUdea/app/src/main/AndroidManifest.xml:2:1-23:12
 MERGED from [androidx.core:core-ktx:1.7.0] /Users/dfchaves/.gradle/caches/transforms-3/b810fbd67bac4a05cbf88abe5cff703f/transformed/jetified-core-ktx-1.7.0/AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.material:material:1.4.0] /Users/dfchaves/.gradle/caches/transforms-3/0a2abf7e181c5770d82904112c96f8dd/transformed/material-1.4.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] /Users/dfchaves/.gradle/caches/transforms-3/2fcd23c636c50850abd51fb9ed6d82a2/transformed/constraintlayout-2.1.1/AndroidManifest.xml:2:1-11:12
@@ -40,25 +40,25 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/dfchaves/.gradle/c
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/dfchaves/.gradle/caches/transforms-3/924db5bfe5c57b30b73f6f45c724441e/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] /Users/dfchaves/.gradle/caches/transforms-3/42ffa41eed66a835645ab26fba929fd1/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/dfchaves/.gradle/caches/transforms-3/4ec61633d6d3cdffce59747229c850df/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
-INJECTED from /Users/dfchaves/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:2:1-23:12
-INJECTED from /Users/dfchaves/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:2:1-23:12
-INJECTED from /Users/dfchaves/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/dfchaves/dev/udeaKotlin/kotlinUdea/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/dfchaves/dev/udeaKotlin/kotlinUdea/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/dfchaves/dev/udeaKotlin/kotlinUdea/app/src/main/AndroidManifest.xml:2:1-23:12
 	package
-		ADDED from /Users/dfchaves/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:3:5-37
-		INJECTED from /Users/dfchaves/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/dfchaves/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/dfchaves/dev/udeaKotlin/kotlinUdea/app/src/main/AndroidManifest.xml:3:5-37
+		INJECTED from /Users/dfchaves/dev/udeaKotlin/kotlinUdea/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/dfchaves/dev/udeaKotlin/kotlinUdea/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/dfchaves/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml
-		ADDED from /Users/dfchaves/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:2:1-23:12
-		INJECTED from /Users/dfchaves/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/dfchaves/dev/udeaKotlin/kotlinUdea/app/src/main/AndroidManifest.xml
+		ADDED from /Users/dfchaves/dev/udeaKotlin/kotlinUdea/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /Users/dfchaves/dev/udeaKotlin/kotlinUdea/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /Users/dfchaves/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml
-		ADDED from /Users/dfchaves/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:2:1-23:12
-		INJECTED from /Users/dfchaves/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/dfchaves/dev/udeaKotlin/kotlinUdea/app/src/main/AndroidManifest.xml
+		ADDED from /Users/dfchaves/dev/udeaKotlin/kotlinUdea/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /Users/dfchaves/dev/udeaKotlin/kotlinUdea/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/dfchaves/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /Users/dfchaves/dev/udeaKotlin/kotlinUdea/app/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /Users/dfchaves/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:5:5-21:19
+ADDED from /Users/dfchaves/dev/udeaKotlin/kotlinUdea/app/src/main/AndroidManifest.xml:5:5-21:19
 MERGED from [com.google.android.material:material:1.4.0] /Users/dfchaves/.gradle/caches/transforms-3/0a2abf7e181c5770d82904112c96f8dd/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.4.0] /Users/dfchaves/.gradle/caches/transforms-3/0a2abf7e181c5770d82904112c96f8dd/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] /Users/dfchaves/.gradle/caches/transforms-3/2fcd23c636c50850abd51fb9ed6d82a2/transformed/constraintlayout-2.1.1/AndroidManifest.xml:9:5-20
@@ -70,37 +70,37 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/dfch
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.7.0] /Users/dfchaves/.gradle/caches/transforms-3/f151290c6ded99e73cc30cce4233ae32/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from /Users/dfchaves/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:10:9-35
+		ADDED from /Users/dfchaves/dev/udeaKotlin/kotlinUdea/app/src/main/AndroidManifest.xml:10:9-35
 	android:label
-		ADDED from /Users/dfchaves/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:8:9-41
+		ADDED from /Users/dfchaves/dev/udeaKotlin/kotlinUdea/app/src/main/AndroidManifest.xml:8:9-41
 	android:roundIcon
-		ADDED from /Users/dfchaves/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:9:9-54
+		ADDED from /Users/dfchaves/dev/udeaKotlin/kotlinUdea/app/src/main/AndroidManifest.xml:9:9-54
 	android:icon
-		ADDED from /Users/dfchaves/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:7:9-43
+		ADDED from /Users/dfchaves/dev/udeaKotlin/kotlinUdea/app/src/main/AndroidManifest.xml:7:9-43
 	android:allowBackup
-		ADDED from /Users/dfchaves/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:6:9-35
+		ADDED from /Users/dfchaves/dev/udeaKotlin/kotlinUdea/app/src/main/AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from /Users/dfchaves/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:11:9-48
+		ADDED from /Users/dfchaves/dev/udeaKotlin/kotlinUdea/app/src/main/AndroidManifest.xml:11:9-48
 activity#com.example.myfirstapp.MainActivity
-ADDED from /Users/dfchaves/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:12:9-20:20
+ADDED from /Users/dfchaves/dev/udeaKotlin/kotlinUdea/app/src/main/AndroidManifest.xml:12:9-20:20
 	android:exported
-		ADDED from /Users/dfchaves/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:14:13-36
+		ADDED from /Users/dfchaves/dev/udeaKotlin/kotlinUdea/app/src/main/AndroidManifest.xml:14:13-36
 	android:name
-		ADDED from /Users/dfchaves/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:13:13-41
+		ADDED from /Users/dfchaves/dev/udeaKotlin/kotlinUdea/app/src/main/AndroidManifest.xml:13:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/dfchaves/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:15:13-19:29
+ADDED from /Users/dfchaves/dev/udeaKotlin/kotlinUdea/app/src/main/AndroidManifest.xml:15:13-19:29
 action#android.intent.action.MAIN
-ADDED from /Users/dfchaves/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:16:17-69
+ADDED from /Users/dfchaves/dev/udeaKotlin/kotlinUdea/app/src/main/AndroidManifest.xml:16:17-69
 	android:name
-		ADDED from /Users/dfchaves/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:16:25-66
+		ADDED from /Users/dfchaves/dev/udeaKotlin/kotlinUdea/app/src/main/AndroidManifest.xml:16:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/dfchaves/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:18:17-77
+ADDED from /Users/dfchaves/dev/udeaKotlin/kotlinUdea/app/src/main/AndroidManifest.xml:18:17-77
 	android:name
-		ADDED from /Users/dfchaves/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:18:27-74
+		ADDED from /Users/dfchaves/dev/udeaKotlin/kotlinUdea/app/src/main/AndroidManifest.xml:18:27-74
 uses-sdk
-INJECTED from /Users/dfchaves/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/dfchaves/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml
-INJECTED from /Users/dfchaves/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/dfchaves/dev/udeaKotlin/kotlinUdea/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/dfchaves/dev/udeaKotlin/kotlinUdea/app/src/main/AndroidManifest.xml
+INJECTED from /Users/dfchaves/dev/udeaKotlin/kotlinUdea/app/src/main/AndroidManifest.xml
 MERGED from [androidx.core:core-ktx:1.7.0] /Users/dfchaves/.gradle/caches/transforms-3/b810fbd67bac4a05cbf88abe5cff703f/transformed/jetified-core-ktx-1.7.0/AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.core:core-ktx:1.7.0] /Users/dfchaves/.gradle/caches/transforms-3/b810fbd67bac4a05cbf88abe5cff703f/transformed/jetified-core-ktx-1.7.0/AndroidManifest.xml:5:5-7:41
 MERGED from [com.google.android.material:material:1.4.0] /Users/dfchaves/.gradle/caches/transforms-3/0a2abf7e181c5770d82904112c96f8dd/transformed/material-1.4.0/AndroidManifest.xml:20:5-44
@@ -173,13 +173,13 @@ MERGED from [androidx.print:print:1.0.0] /Users/dfchaves/.gradle/caches/transfor
 MERGED from [androidx.print:print:1.0.0] /Users/dfchaves/.gradle/caches/transforms-3/42ffa41eed66a835645ab26fba929fd1/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/dfchaves/.gradle/caches/transforms-3/4ec61633d6d3cdffce59747229c850df/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/dfchaves/.gradle/caches/transforms-3/4ec61633d6d3cdffce59747229c850df/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
-INJECTED from /Users/dfchaves/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml
-INJECTED from /Users/dfchaves/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/dfchaves/dev/udeaKotlin/kotlinUdea/app/src/main/AndroidManifest.xml
+INJECTED from /Users/dfchaves/dev/udeaKotlin/kotlinUdea/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/dfchaves/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml
-		ADDED from /Users/dfchaves/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/dfchaves/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/dfchaves/dev/udeaKotlin/kotlinUdea/app/src/main/AndroidManifest.xml
+		ADDED from /Users/dfchaves/dev/udeaKotlin/kotlinUdea/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/dfchaves/dev/udeaKotlin/kotlinUdea/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/dfchaves/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml
-		ADDED from /Users/dfchaves/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/dfchaves/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/dfchaves/dev/udeaKotlin/kotlinUdea/app/src/main/AndroidManifest.xml
+		ADDED from /Users/dfchaves/dev/udeaKotlin/kotlinUdea/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/dfchaves/dev/udeaKotlin/kotlinUdea/app/src/main/AndroidManifest.xml
