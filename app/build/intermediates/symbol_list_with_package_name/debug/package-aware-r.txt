@@ -1965,6 +1965,7 @@ id custom
 id customPanel
 id cut
 id date_picker_actions
+id dates
 id decelerate
 id decelerateAndComplete
 id decor_content_parent
@@ -2118,6 +2119,7 @@ id mtrl_picker_text_input_range_start
 id mtrl_picker_title_text
 id mtrl_view_tag_bottom_padding
 id multiply
+id name
 id navigation_bar_item_icon_view
 id navigation_bar_item_labels_group
 id navigation_bar_item_large_label_view
@@ -2261,6 +2263,7 @@ id textinput_placeholder
 id textinput_prefix_text
 id textinput_suffix_text
 id time
+id times
 id title
 id titleDividerNoCustom
 id title_template
@@ -2491,6 +2494,7 @@ string character_counter_overflowed_content_description
 string character_counter_pattern
 string chip_text
 string clear_text_end_icon_content_description
+string done
 string error_icon_content_description
 string exposed_dropdown_menu_content_description
 string fab_transformation_scrim_behavior
@@ -2559,6 +2563,7 @@ string path_password_eye
 string path_password_eye_mask_strike_through
 string path_password_eye_mask_visible
 string path_password_strike_through
+string reminder
 string search_menu_title
 string send
 string status_bar_notification_info_overflow

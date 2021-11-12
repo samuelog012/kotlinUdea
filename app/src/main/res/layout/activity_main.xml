@@ -1,28 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout
-    xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:layout_marginStart="16dp"
-    android:layout_marginEnd="16dp"
-    android:orientation="vertical" >
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp" >
     <EditText
+        android:id="@+id/name"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="@string/to" />
+        android:hint="@string/reminder" />
     <EditText
-        android:layout_width="match_parent"
+        android:id="@+id/dates"
+        android:layout_width="0dp"
         android:layout_height="wrap_content"
-        android:hint="@string/subject" />
+        android:layout_below="@id/name"
+        android:layout_alignParentStart="true"
+        android:layout_toStartOf="@+id/times" />
     <EditText
-        android:layout_width="match_parent"
-        android:layout_height="0dp"
-        android:layout_weight="1"
-        android:gravity="top"
-        android:hint="@string/message" />
+        android:id="@+id/times"
+        android:layout_width="120dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/name"
+        android:layout_alignParentEnd="true" />
     <Button
-        android:layout_width="100dp"
+        android:layout_width="120dp"
         android:layout_height="wrap_content"
-        android:layout_gravity="right"
-        android:text="@string/send" />
-    </LinearLayout>
+        android:layout_below="@id/times"
+        android:layout_alignParentEnd="true"
+        android:text="@string/done" />
+</RelativeLayout>
