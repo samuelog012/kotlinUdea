@@ -1,2 +1,6 @@
 com/example/myfirstapp/BuildConfig.java
  com.example.myfirstapp.BuildConfig
+com/example/myfirstapp/databinding/ActivityPruebaBinding.java
+ com.example.myfirstapp.databinding.ActivityPruebaBinding
+com/example/myfirstapp/databinding/ActivityMainBinding.java
+ com.example.myfirstapp.databinding.ActivityMainBinding

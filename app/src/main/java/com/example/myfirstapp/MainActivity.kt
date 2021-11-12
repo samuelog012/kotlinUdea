@@ -2,12 +2,29 @@ package com.example.myfirstapp
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.widget.ArrayAdapter
+import android.widget.ListView
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
+        val arrayAdapter: ArrayAdapter<*>
+
+        val values = arrayOf(
+            "Android", "iPhone", "WindowsMobile",
+            "Blackberry", "WebOS", "Ubuntu", "Windows7", "MacOS X",
+            "Linux", "Windows8.1", "Lollipop", "iOS",
+            "Lubuntu", "Kali linux", "Windows10", "Windows XP",
+            "Symbian"
+        )
+
+        var mListView = findViewById<ListView>(R.id.my_list_view)
+
+        arrayAdapter = ArrayAdapter(this,
+            android.R.layout.simple_list_item_1, values)
+        mListView.adapter = arrayAdapter
 
 //        calculadora(25f, 2f)
 //        val respuesta:String = concatenar("Juan","Julian","Perez","Pinto")
@@ -15,7 +32,7 @@ class MainActivity : AppCompatActivity() {
 //        variablesContantes()
     }
 
-    private fun variablesContantes() {
+//    private fun variablesContantes() {
 //        var entero: Int = 1003
 //        var cadena: String = "David"
 //        var booleano: Boolean = true // false
@@ -239,4 +256,4 @@ class MainActivity : AppCompatActivity() {
 //        return "$nombre1 $nombre2 $apellido1 $apellido2"
 //    }
 
-}
+//}
