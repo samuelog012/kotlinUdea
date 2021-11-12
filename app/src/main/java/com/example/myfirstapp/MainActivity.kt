@@ -20,11 +20,11 @@ class MainActivity : AppCompatActivity() {
             "Symbian"
         )
 
-        var mListView = findViewById<ListView>(R.id.my_list_view)
+//        var mListView = findViewById<ListView>(R.id.my_list_view)
 
-        arrayAdapter = ArrayAdapter(this,
-            android.R.layout.simple_list_item_1, values)
-        mListView.adapter = arrayAdapter
+//        arrayAdapter = ArrayAdapter(this,
+//            android.R.layout.simple_list_item_1, values)
+//        mListView.adapter = arrayAdapter
 
 //        calculadora(25f, 2f)
 //        val respuesta:String = concatenar("Juan","Julian","Perez","Pinto")

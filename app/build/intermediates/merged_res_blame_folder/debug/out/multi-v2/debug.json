@@ -1426,9 +1426,11 @@
                 {
                     "source": "/Users/dfchaves/dev/udeaKotlin/kotlinUdea/app/src/main/res/values/strings.xml",
                     "from": {
-                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
-                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
-                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                        "startLines": "-1,-1,10,15,16,-1,12,13,-1,11,-1,-1,8,-1",
+                        "startColumns": "-1,-1,4,4,4,-1,4,4,-1,4,-1,-1,4,-1",
+                        "startOffsets": "-1,-1,441,656,726,-1,571,609,-1,505,-1,-1,329,-1",
+                        "endColumns": "-1,-1,63,69,82,-1,37,45,-1,65,-1,-1,56,-1",
+                        "endOffsets": "-1,-1,500,721,804,-1,604,650,-1,566,-1,-1,381,-1"
                     },
                     "to": {
                         "startLines": "1194,1203,1208,1209,1210,1234,1272,1278,1279,1281,1282,1284,1285,1286",
@@ -1516,11 +1518,9 @@
                 {
                     "source": "/Users/dfchaves/dev/udeaKotlin/kotlinUdea/app/src/main/res/values/dimens.xml",
                     "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "55",
-                        "endOffsets": "106"
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
                     },
                     "to": {
                         "startLines": "683",

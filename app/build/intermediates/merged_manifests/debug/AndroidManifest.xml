@@ -20,9 +20,6 @@
         android:testOnly="true"
         android:theme="@style/Theme.MyFirstApp" >
         <activity
-            android:name="com.example.myfirstapp.Prueba"
-            android:exported="false" />
-        <activity
             android:name="com.example.myfirstapp.MainActivity"
             android:exported="true" >
             <intent-filter>
