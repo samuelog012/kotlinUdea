@@ -1926,7 +1926,6 @@ id bounce
 id bounceBoth
 id bounceEnd
 id bounceStart
-id button
 id buttonPanel
 id cache_measures
 id cancel_button
@@ -2519,6 +2518,7 @@ string material_timepicker_minute
 string material_timepicker_pm
 string material_timepicker_select_time
 string material_timepicker_text_input_mode_description
+string message
 string mtrl_badge_numberless_content_description
 string mtrl_chip_close_icon_content_description
 string mtrl_exceed_max_badge_number_content_description
@@ -2560,7 +2560,10 @@ string path_password_eye_mask_strike_through
 string path_password_eye_mask_visible
 string path_password_strike_through
 string search_menu_title
+string send
 string status_bar_notification_info_overflow
+string subject
+string to
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light
 style AndroidThemeColorAccentYellow

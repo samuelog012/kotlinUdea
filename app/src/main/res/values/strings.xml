@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">MyFirstApp</string>
+    <string name="app_name">Mi primera App</string>
+    <string name="to">Para</string>
+    <string name="subject">Asunto</string>
+    <string name="message">Mensaje</string>
+    <string name="send">Enviar</string>
 </resources>

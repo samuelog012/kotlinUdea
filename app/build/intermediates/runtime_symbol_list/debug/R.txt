@@ -1925,7 +1925,6 @@ int id bounce 0x7f08005e
 int id bounceBoth 0x7f08005f
 int id bounceEnd 0x7f080060
 int id bounceStart 0x7f080061
-int id button 0x7f080062
 int id buttonPanel 0x7f080063
 int id cache_measures 0x7f080064
 int id cancel_button 0x7f080065
@@ -2518,6 +2517,7 @@ int string material_timepicker_minute 0x7f0f003b
 int string material_timepicker_pm 0x7f0f003c
 int string material_timepicker_select_time 0x7f0f003d
 int string material_timepicker_text_input_mode_description 0x7f0f003e
+int string message 0x7f0f0069
 int string mtrl_badge_numberless_content_description 0x7f0f003f
 int string mtrl_chip_close_icon_content_description 0x7f0f0040
 int string mtrl_exceed_max_badge_number_content_description 0x7f0f0041
@@ -2559,7 +2559,10 @@ int string path_password_eye_mask_strike_through 0x7f0f0064
 int string path_password_eye_mask_visible 0x7f0f0065
 int string path_password_strike_through 0x7f0f0066
 int string search_menu_title 0x7f0f0067
+int string send 0x7f0f006a
 int string status_bar_notification_info_overflow 0x7f0f0068
+int string subject 0x7f0f006b
+int string to 0x7f0f006c
 int style AlertDialog_AppCompat 0x7f100000
 int style AlertDialog_AppCompat_Light 0x7f100001
 int style AndroidThemeColorAccentYellow 0x7f100002

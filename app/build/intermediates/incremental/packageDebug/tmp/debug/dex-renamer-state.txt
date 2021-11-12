@@ -1,4 +1,4 @@
-#Thu Nov 11 20:19:36 COT 2021
+#Thu Nov 11 20:40:47 COT 2021
 base.2=/Users/dfchaves/dev/udeaKotlin/kotlinUdea/app/build/intermediates/dex/debug/mergeProjectDexDebug/10/classes.dex
 path.2=10/classes.dex
 base.1=/Users/dfchaves/dev/udeaKotlin/kotlinUdea/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
