@@ -7,10 +7,12 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
+
+
 //        calculadora(25f, 2f)
 //        val respuesta:String = concatenar("Juan","Julian","Perez","Pinto")
 //        println(respuesta)
-        variablesContantes()
+//        variablesContantes()
     }
 
     private fun variablesContantes() {
@@ -200,8 +202,8 @@ class MainActivity : AppCompatActivity() {
 //
 //        listaPrueba.forEach {println(it)}
 
-        val upperCase1: (String) -> String = { str: String -> str.uppercase() } // 1
-        val lowerCase: (String) -> String = { str: String -> str.lowercase() } // 1
+//        val upperCase1: (String) -> String = { str: String -> str.uppercase() } // 1
+//        val lowerCase: (String) -> String = { str: String -> str.lowercase() } // 1
 
 //
 //        val upperCase2: (String) -> String = { str -> str.uppercase() }         // 2
@@ -214,8 +216,8 @@ class MainActivity : AppCompatActivity() {
 //
 //        val upperCase6: (String) -> String = String::uppercase                  // 6
 
-        println(upperCase1("hello"))
-        println(lowerCase("hello"))
+//        println(upperCase1("hello"))
+//        println(lowerCase("hello"))
 //        println(upperCase3("hello"))
 //        println(upperCase5("hello"))
 //        println(upperCase6("hello"))
@@ -233,8 +235,8 @@ class MainActivity : AppCompatActivity() {
 //        println("Esta es la suma de los dos valores: $divicion")
 //        return suma
 //    }
-    fun concatenar(nombre1: String, nombre2: String, apellido1: String, apellido2: String): String {
-        return "$nombre1 $nombre2 $apellido1 $apellido2"
-    }
+//    fun concatenar(nombre1: String, nombre2: String, apellido1: String, apellido2: String): String {
+//        return "$nombre1 $nombre2 $apellido1 $apellido2"
+//    }
 
 }
